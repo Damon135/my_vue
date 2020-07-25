@@ -1,3 +1,2 @@
 # my_vue
-my vue
-hahaha
+write a private vue
